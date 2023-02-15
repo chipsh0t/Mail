@@ -1,0 +1,18 @@
+textarea {
+    min-height: 400px;
+}
+
+#notification{
+    /* background-color: red; */
+    height:2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    border:1px solid black;
+    margin-bottom: 10px;
+    /* border-radius: 10%; */
+}
+
+#notification:hover{
+    cursor: pointer;
+}
